@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Presents</title>
+    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+  </head>  
+  <body id="main">
+    <header>
+      <h1 id="title">Emily and Kevin's story</h1>
+    </header>
+  <section>
+    <div id="img-div">
+      <img id="image" alt="lovelovecouple" src="https://cdn.japantimes.2xx.jp/wp-content/uploads/2017/09/n-panda-a-20170919.jpg" ></img> 
+      <p id="img-caption">Shoot by Emily @Quebec City</p>
+    </div>
+    <article id="tribute-info">
+      <h2>The story between Emily and Kevin</h2>
+      <div id="travel-list">
+        <ul>
+          <li>2018.Feb, when the story began between two young people who are thousands of miles away from each other.<br>They kept talking with each other ever since.</li><br>
+          <li>2018.Mar,like all the flowers began to blossom in the awake of spring, the affection between the two young gets stronger.<br>Finally on March.13th(or shall we say 14th due to the time difference),they became boyfreind and girlfriend.</li><br>
+          <li>2018.April, at New York City did they first meet.</li><br>
+          <li>2018.May, first time ever they travelled together by night bus to Canada.<br>First time ever for both of them to the land of Canada.</li><br>
+          <li>2018.Jun, the separate was too hard for both of them, when the boy decided to spend his summer holiday first ever in Japan, with her.</li><br>
+          <li>2018.July, they didnt want to be apart again but sadly, the boy had to go back to US to start working.<br>Luckily, thye would meet each other soon in Los Angeles</li><br>
+          <li>2018.Oct, in the breeze of early autumn, she went to the airport and finally met her boy at LAX airport after two months.<br>Guess who was so stupid that lost THE mobile phone and didnt know how to enter the bnb.(lol)</li><br>
+          <li>2018.Oct, when they finally arrived in their home in Pheonix after only 1h of flight. It was the best place ever in the world.</li><br>
+          <li>2018.Dec, the year was about to end. The lovebird got the chance to spend the merry Christmas and happy New Year together!<br>It was a wonderful ear!</li>  <br>  
+        </ul>    
+      </div
+
+
+    </article>
+    </section>
+            <div id="more-info">
+        For more stories, you could visit <a href="#" id="tribute-link" target="_blank">Whole Story</a>
+      </div>
+   <div class="heart"></div>
+  </body>
+  
+</html>
